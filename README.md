@@ -1,3 +1,3 @@
-# Advent of Code 2022
+# Advent of Code 🎄
 
-<img src="/advent.png" width="400" align="center" />
+<img src="/advent.png" width="400" margin: auto />
